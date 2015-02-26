@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA213: Numerical Analysis"
+course_description: "An exploration of the methods used to solve problems involving continuous variables."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "MA213: Numerical Analysis"
 -----------------------------------------------
 

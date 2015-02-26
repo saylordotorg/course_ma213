@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA213: Numerical Analysis"
+course_description: "An exploration of the methods used to solve problems involving continuous variables."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Polynomials and Polynomial Interpolation** <span
 id="2"></span> 
 *Some say that 75% of applied mathematics is polynomials (the other 75%

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA213: Numerical Analysis"
+course_description: "An exploration of the methods used to solve problems involving continuous variables."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Differentiation and Integrations of Functions** <span
 id="4"></span> 
 *Before we talk about differential equations, we should expect some

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA213: Numerical Analysis"
+course_description: "An exploration of the methods used to solve problems involving continuous variables."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Nonlinear Equations of a Single Real Variable** <span
 id="3"></span> 
 *From the very first algebra course you took, you have been asked to

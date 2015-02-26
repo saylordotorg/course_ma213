@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA213: Numerical Analysis"
+course_description: "An exploration of the methods used to solve problems involving continuous variables."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Computer Arithmetic** <span id="1"></span> 
 *We see how real numbers are represented in computers for scientific
 computation.  We cannot represent all real numbers, so we must choose

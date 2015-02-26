@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA213: Numerical Analysis"
+course_description: "An exploration of the methods used to solve problems involving continuous variables."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Differential Equations** <span id="5"></span> 
 *The subject addressed in this unit is where we have been headed from
 the start of this course.  We now have the tools we need to understand

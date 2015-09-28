@@ -171,3 +171,4 @@ complete.
 - [Unit 4](https://legacy.saylor.org/ma213/Unit04/)
 - [Unit 5](https://legacy.saylor.org/ma213/Unit05/)
 - [Unit 6](https://legacy.saylor.org/ma213/Unit06/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/MA/MA213/MA213-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/MA/MA213/MA213-FinalExam-Answers.html)

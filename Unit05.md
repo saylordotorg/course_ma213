@@ -459,9 +459,9 @@ id="5.7"></span> 
 **Unit 5 Assessment** <span id="5.9"></span> 
 -   **Assessment: The Saylor Foundation's "Unit 5 Assessment"**
     Link: The Saylor Foundation's "[Unit 5
-    Assessment](http://www.saylor.org/site/wp-content/uploads/2012/08/MA213-Unit-5-Assessment-FINAL.pdf)"
+    Assessment](https://resources.saylor.org/archived/wp-content/uploads/2012/08/MA213-Unit-5-Assessment-FINAL.pdf)"
     (PDF) and “[Guide to
-    Responding](http://www.saylor.org/site/wp-content/uploads/2012/08/MA213-Assessment-Unit-5-GTR-FINAL.pdf)”
+    Responding](https://resources.saylor.org/archived/wp-content/uploads/2012/08/MA213-Assessment-Unit-5-GTR-FINAL.pdf)”
     (PDF).  
       
      Instructions: Carefully answer the four questions below.  The first

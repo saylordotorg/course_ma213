@@ -249,9 +249,9 @@ id="3.7"></span> 
 **Unit 3 Assessment** <span id="3.9"></span> 
 -   **Assessment: The Saylor Foundation’s “Unit 3 Assessment”**
     Link: The Saylor Foundation’s “[Unit 3
-    Assessment](http://www.saylor.org/site/wp-content/uploads/2012/08/MA213-Assessment-Unit3-FINAL.pdf)”
+    Assessment](https://resources.saylor.org/archived/wp-content/uploads/2012/08/MA213-Assessment-Unit3-FINAL.pdf)”
     (PDF) and “[Unit 3 Guide to
-    Responding](http://www.saylor.org/site/wp-content/uploads/2012/08/MA213-Assessment-Unit3-GTR-FINAL.pdf)”
+    Responding](https://resources.saylor.org/archived/wp-content/uploads/2012/08/MA213-Assessment-Unit3-GTR-FINAL.pdf)”
     (PDF).  
       
      Instructions: Carefully answer the two questions in this

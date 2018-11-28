@@ -352,9 +352,9 @@ id="2.3"></span> 
 **Unit 2 Assessment** <span id="2.5"></span> 
 -   **Assessment: The Saylor Foundation's "Unit 2 Assessment"**
     Link: The Saylor Foundation's "[Unit 2
-    Assessment](https://resources.saylor.org/archived/wp-content/uploads/2012/06/MA213-Unit-2-Assessment-FINAL.pdf)"
+    Assessment](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/06/MA213-Unit-2-Assessment-FINAL.pdf)"
     (PDF) and  “[Guide to
-    Responding](https://resources.saylor.org/archived/wp-content/uploads/2012/06/MA213-Unit-2-Assessment-GTR-FINAL.pdf)”
+    Responding](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/06/MA213-Unit-2-Assessment-GTR-FINAL.pdf)”
     (PDF).  
       
      Instructions: <span

@@ -245,9 +245,9 @@ id="4.4"></span> 
 **Unit 4 Assessment** <span id="4.5"></span> 
 -   **Assessment: The Saylor Foundation's "Unit 4 Assessment"**
     Link: The Saylor Foundation's "[Unit 4
-    Assessment](https://resources.saylor.org/archived/wp-content/uploads/2012/08/MA213-Assessment-Unit4-FINAL.pdf)"
+    Assessment](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/MA213-Assessment-Unit4-FINAL.pdf)"
     (PDF) and “[Unit 4 Guide to
-    Responding](https://resources.saylor.org/archived/wp-content/uploads/2012/08/MA213-Assessment-Unit4-GTR-FINAL.pdf)”
+    Responding](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/MA213-Assessment-Unit4-GTR-FINAL.pdf)”
     (PDF).  
       
      Instructions: Carefully answer the two questions in this
